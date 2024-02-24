@@ -30,7 +30,7 @@ Config.FakeSuicidePill = {
     FakeSuicidePillTime = 10,
     -- Duration during the players is unconscious in seconds
     -- Default is 180 seconds => 3 minutes
-    FakeSuicidePillDuration = 180, 
+    FakeSuicidePillDuration = 90, 
     -- Show timer on screen
     ShowTimer = true,
 
